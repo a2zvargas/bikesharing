@@ -25,8 +25,24 @@ Looking at this graph we can see that subscribers of the Citibike bike-sharing p
 
 Based on these maps of our Top Starting and Ending locations we see that the amount of bikes remain in the Top Starting locations which is good for users of the bike-sharing platform.
 
-
-
-
 ## Summary: 
-Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+In summary, we see that the majority of riders are males, most rides occur during the rush hours of the morning and afternoon, and the location where most bikes are rented from is also the location most are returned to.
+
+![gender](https://user-images.githubusercontent.com/85706721/135768736-11a80667-affb-418a-9984-4f532ca5dd01.png)
+
+This graph allows us to make a rougth estimation that about 75% of riders are male, and 25% are female.
+
+![Age by Gender](https://user-images.githubusercontent.com/85706721/135768813-f164420c-f2c0-4c69-abc7-73c5c3f0735f.png)
+
+Here we see that the majority of riders for both male and female are in their early 30s.
+
+![Num of Riders by Usertype](https://user-images.githubusercontent.com/85706721/135768842-f7fe72a5-68a6-4d16-8610-2b232a69aac4.png)
+
+Lastly we see that about 80% of riders have become subscribers of the Citibike bike-sharing program.
+
+[Link to Tableau Dashboard](https://public.tableau.com/shared/R8298S45P?:display_count=n&:origin=viz_share_link
+ "Link to Tableau Dashboard")
+
+
+
+
